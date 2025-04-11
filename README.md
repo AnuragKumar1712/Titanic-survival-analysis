@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09e94906-3a02-4de4-9797-96d4f8167301)# 🛳 Titanic Survival Prediction
+# 🛳 Titanic Survival Prediction
 
 Predict survival on the Titanic and uncover the patterns behind who was more likely to survive the tragic shipwreck of 1912.
 
