@@ -25,7 +25,7 @@ This project involves building a classification model to predict which passenger
 ## 📊 Dashboard Preview
 > **Built with Power BI to visualize survival rates, demographics, class distribution, and predictions.**
 
-![Dashboard Screenshot](/Dashboard/Titanic Survivor Dashboard.png)
+![Titanic Power BI Dashboard](Dashboard/Titanic%20Survivor%20Dashboard.png)
 
 ## 🚀 Project Workflow
 1. **Data Exploration & Cleaning**
